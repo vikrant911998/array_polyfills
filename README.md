@@ -4,9 +4,9 @@ This repository contains custom implementations of commonly used JavaScript Arra
 
 ✅ Covered methods:
 
-- Array.prototype.forEach
-- Array.prototype.map
-- Array.prototype.filter
-- Array.prototype.reduce
-- Array.prototype.find
-- Array.prototype.findIndex
+- `Array.prototype.forEach`
+- `Array.prototype.map`
+- `Array.prototype.filter`
+- `Array.prototype.reduce`
+- `Array.prototype.find`
+- `Array.prototype.findIndex`
