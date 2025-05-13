@@ -4,6 +4,7 @@ This repository contains custom implementations of commonly used JavaScript Arra
 
 ✅ Covered methods:
 
+- `Array.prototype.includes`
 - `Array.prototype.forEach`
 - `Array.prototype.map`
 - `Array.prototype.filter`
